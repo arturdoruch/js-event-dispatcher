@@ -1,0 +1,17 @@
+{
+  "name": "@arturdoruch/event-dispatcher",
+  "version": "1.0.0",
+  "description": "Dispatches custom events to registered listeners",
+  "keywords": ["event dispatcher", "custom events"],
+  "license": "MIT",
+  "type": "module",
+  "main": "lib/event-dispatcher.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arturdoruch/js-event-dispatcher"
+  },
+  "author": {
+    "name": "Artur Doruch",
+    "email": "arturdoruch@interia.pl"
+  }
+}
